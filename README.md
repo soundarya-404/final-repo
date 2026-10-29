@@ -52,4 +52,4 @@ Optional settings (environment variables):
 - `static/index.html` - dashboard (no external libraries or CDNs, works offline)
 - `RUNBOOK.md` - step-by-step recovery procedure
 
-Built with AI assistance (disclose if asked); every part should be understood and explainable by the team.
+
